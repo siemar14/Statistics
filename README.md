@@ -1,2 +1,3 @@
 # Statistics
-scripts for data 
+
+Python scripts for statical programming
